@@ -3,7 +3,6 @@
 
 import requests
 import time
-import sys
 
 vk_l = 'https://api.vk.com/method/'
 vk_t = '&access_token=' + '779d5aa3302cc6c775706d8b927ea893775c3a78276c397031b4781e88e4d8734efa3739573ac56535210' + '&v=' + '5.52'
